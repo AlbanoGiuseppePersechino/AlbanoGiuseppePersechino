@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Albano Persechino</h1>
 <h3 align="center">A passionate Back End developer from Italy</h3>
 
+- 🔭 I’m currently working on [wsqrwdgrfgfe](eqwREFWERTGER)
+
+- 👯 I’m looking to collaborate on [ERWQ](WEQR)
+
+- 🤝 I’m looking for help with [QRWERWQER](EWRQRWQE)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
