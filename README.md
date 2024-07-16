@@ -1,21 +1,21 @@
-# Ciao, sono Albano 👋
+# Hi, I'm Albano 👋
 
-## Chi sono
-- 🧑‍💻 Sviluppatore backend in formazione
-- 🎂 28 anni
-- 🏠 Vivo a Sant'Apollinare, un piccolo e affascinante paesino nel Lazio (provincia di Frosinone)
+## About Me
+- 🧑‍💻 Backend developer in training
+- 🎂 28 years old
+- 🏠 Living in Sant'Apollinare, a charming small village in Lazio (province of Frosinone), Italy
 
-## Cosa sto facendo
-- 📚 Attualmente sto seguendo un corso di sviluppo backend con Develhope
-- 🌱 Sto imparando nuove tecnologie e migliorando le mie competenze di programmazione
-- 🚀 Sono entusiasta di intraprendere questa nuova avventura nel mondo dello sviluppo software
+## What I'm Up To
+- 📚 Currently taking a backend development course with Develhope
+- 🌱 Learning new technologies and improving my programming skills
+- 🚀 Excited to embark on this new adventure in the world of software development
 
-## Interessi
-- 💻 Appassionato di tecnologia
-- 🌍 Curioso di esplorare nuove culture e luoghi
-- 📈 Sempre alla ricerca di nuove sfide e opportunità di crescita
+## Interests
+- 💻 Passionate about technology
+- 🌍 Curious to explore new cultures and places
+- 📈 Always looking for new challenges and opportunities to grow
 
-Non esitare a contattarmi se vuoi collaborare o semplicemente fare due chiacchiere!
+Feel free to reach out if you want to collaborate or just have a chat!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
