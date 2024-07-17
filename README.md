@@ -15,14 +15,14 @@
 - 🌍 Curious to explore new cultures and places
 - 📈 Always looking for new challenges and opportunities to grow
 
-- - 📫 How to reach me
-   - **albano.persechino@gmail.com**
+- - 📫  **albano.persechino@gmail.com**
 
 Feel free to reach out if you want to collaborate or just have a chat!
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    - 📫  **albano.persechino@gmail.com**
 <a href="https://linkedin.com/in/albano-persechino-16703330a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albano-persechino-16703330a/" height="30" width="40" /></a>
 </p>
 
