@@ -15,8 +15,6 @@
 - 🌍 Curious to explore new cultures and places
 - 📈 Always looking for new challenges and opportunities to grow
 
-- - 📫  **albano.persechino@gmail.com**
-
 Feel free to reach out if you want to collaborate or just have a chat!
 
 
